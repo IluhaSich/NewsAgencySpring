@@ -1,8 +1,5 @@
 package com.example.demo.dto;
 
-import com.example.demo.entity.Editor;
-import com.example.demo.entity.Journalist;
-
 import java.time.ZonedDateTime;
 
 public class NewsDto {
